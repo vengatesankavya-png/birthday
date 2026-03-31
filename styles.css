@@ -1,0 +1,30 @@
+p{
+    font-family: sans-serif;
+    font-size: large;
+    font-weight: 100;
+    color:whitesmoke;
+}
+div{
+    color:brown;
+    font-size:larger ;
+    border-color:rgb(167, 0, 33);
+    border-style: dotted;
+    border-width:5px;
+    border: height 5px;
+    margin: 300px;
+}
+a{
+    color:aqua;
+    font-size: large;
+}
+*{
+    background-color: antiquewhite;
+    background-image:url("psk.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:center;
+    background-size:cover;
+}
+h1{
+    color:aqua
+}

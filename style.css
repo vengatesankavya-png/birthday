@@ -1,0 +1,25 @@
+*{
+    background-color: rgb(56, 6, 72);
+}
+h1{
+    color:aliceblue;
+}
+a{
+    color:antiquewhite;
+    width:200px;
+    position: relative;
+    left:40px;
+}
+audio{
+    color:black;
+    width:200px;
+    position:relative;
+    left:40px;
+    right:40px;
+}
+img{
+    position:relative;
+    left:40px;
+    width:200px;
+}
+
